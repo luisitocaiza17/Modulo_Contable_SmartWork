@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jooq-3.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MySqlCon/jooq-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MySqlCon/jooq-codegen-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MySqlCon/jooq-codegen-maven-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MySqlCon/jooq-meta-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MySqlCon/jooq-scala-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MySqlCon/mysql-connector-java-5.1.29-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
